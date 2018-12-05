@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.Stack;
 
 public class Solution2 {
     public List<Integer> postorderTraversal(TreeNode root) {
