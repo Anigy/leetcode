@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-import java.util.Stack;
+import java.util.*;
 
 public class Solution1 {
     public List<List<Integer>> levelOrder(TreeNode root) {
