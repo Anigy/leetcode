@@ -24,7 +24,7 @@ public class Solution {
         int[] leftIn = Arrays.copyOfRange(inorder, 0, index);
         // no need to compare index+1 with inorder.length, max index can be inorder.length, and then int[] is null
         int[] rightIn = Arrays.copyOfRange(inorder, index + 1, inorder.length);
-        Pair<TreeNode, int[]> p = build(pre, leftIn);
+        Pair<TreeNode, int[]> p = build(pre, rightIn);
         root.left = p.getKey();
         pre = p.getValue();
         p = build(pre, rightIn);
