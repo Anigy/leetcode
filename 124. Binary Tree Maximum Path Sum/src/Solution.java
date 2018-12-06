@@ -1,21 +1,27 @@
 import java.util.Objects;
 
 public class Solution {
+    int maxSum = Integer.MIN_VALUE;
+
     public int maxPathSum(TreeNode root) {
-        int maxSum = Integer.MIN_VALUE;
-        if(Objects.isNull(root)) {
-            return 0;
-        }
-        return calcMax(root, maxSum);
+        calcMax(root);
+        return maxSum;
     }
 
-    private int calcMax(TreeNode root, int maxSum) {
-        if(Objects.isNull(root.left) && Objects.isNull(root.right)) {
-            maxSum = Math.max(root.val, maxSum);
-            return maxSum;
+    private int calcMax(TreeNode root) {
+        if (Objects.isNull(root)) {
+            return 0;
         }
-        int leftMax = Math.max(0, calcMax(root.left, maxSum));
-        int rightMax = Math.max(0, calcMax(root.right, maxSum));
-        maxSum = Math.max(Math.max(0,leftMax), Math.max(0, rightMax)) + Math root.val);
+        int val = root.val;
+        int leftMax = calcMax(root.left);
+        int rightMax = calcMax(root.right);
+        if (leftMax > 0) {
+            val += leftMax;
+        }
+        if(rightMax > 0) {
+            val += rightMax;
+        }
+        maxSum = Math.max(val, maxSum);
+        return Math.max(root.val, root.val + Math.max(leftMax, rightMax));
     }
 }

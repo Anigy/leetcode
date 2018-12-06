@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831875d4-71e0-4735-bdbe-b206f3be3298" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/112. Path Sum/112. Path Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112. Path Sum/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/124. Binary Tree Maximum Path Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/094. Binary Tree Inorder Traversal/094. Binary Tree Inorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/094. Binary Tree Inorder Traversal/094. Binary Tree Inorder Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/102. Binary Tree Level Order Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/102. Binary Tree Level Order Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/103. Binary Tree Zigzag Level Order Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/103. Binary Tree Zigzag Level Order Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/104. Maximum Depth of Binary Tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/104. Maximum Depth of Binary Tree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/105. Construct Binary Tree from Preorder and Inorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/105. Construct Binary Tree from Preorder and Inorder Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/106. Construct Binary Tree from Inorder and Postorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/106. Construct Binary Tree from Inorder and Postorder Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/107. Binary tree level order traversal ii/107. Binary tree level order traversal ii.iml" beforeDir="false" afterPath="$PROJECT_DIR$/107. Binary tree level order traversal ii/107. Binary tree level order traversal ii.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111. Minimum Depth of Binary Tree/111. Minimum Depth of Binary Tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/111. Minimum Depth of Binary Tree/111. Minimum Depth of Binary Tree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers/129. Sum Root to Leaf Numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers/129. Sum Root to Leaf Numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonUtil/CommonUtil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CommonUtil/CommonUtil.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +19,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            <state relative-caret-position="567">
+              <caret line="30" selection-start-line="30" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -60,6 +41,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/112. Path Sum/src/Solution.java" />
+        <option value="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/src/Solution1.java" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java" />
       </list>
     </option>
@@ -101,6 +83,10 @@
               <item name="124. Binary Tree Maximum Path Sum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="145. Binary Tree Postorder Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,8 +101,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.side.proportion" value="0.31034482" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,31 +170,40 @@
       <option name="presentableId" value="Default" />
       <updated>1544060570793</updated>
       <workItem from="1544060572071" duration="768000" />
-      <workItem from="1544108794759" duration="3912000" />
+      <workItem from="1544108794759" duration="6374000" />
     </task>
+    <task id="LOCAL-00001" summary="tree">
+      <created>1544115680840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544115680840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4680000" />
+    <option name="totallyTimeSpent" value="7142000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293348" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.47655398" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29530916" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14392324" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -227,8 +222,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/112. Path Sum/112. Path Sum.iml">
@@ -259,13 +284,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/129. Sum Root to Leaf Numbers/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111. Minimum Depth of Binary Tree/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/107. Binary tree level order traversal ii/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/094. Binary Tree Inorder Traversal/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="65" lean-forward="true" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/124. Binary Tree Maximum Path Sum.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        <state relative-caret-position="567">
+          <caret line="30" selection-start-line="30" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -286,7 +406,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -321,7 +441,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>124. Binary Tree Maximum Path Sum</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
