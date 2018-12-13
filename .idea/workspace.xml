@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831875d4-71e0-4735-bdbe-b206f3be3298" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/127. Word Ladder/127. Word Ladder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/127. Word Ladder/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/143. Reorder List/143. Reorder List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/143. Reorder List/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUtil/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/039. Combination Sum/039. Combination Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/039. Combination Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/131. Palindrome Partitioning/131. Palindrome Partitioning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/131. Palindrome Partitioning/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonUtil/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommonUtil/src/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/143. Reorder List/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/039. Combination Sum/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="35" selection-end-column="15" />
+            <state relative-caret-position="312">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,6 +77,8 @@
         <option value="$PROJECT_DIR$/CommonUtil/src/TreeNode.java" />
         <option value="$PROJECT_DIR$/CommonUtil/src/ListNode.java" />
         <option value="$PROJECT_DIR$/143. Reorder List/src/Solution.java" />
+        <option value="$PROJECT_DIR$/131. Palindrome Partitioning/src/Solution.java" />
+        <option value="$PROJECT_DIR$/039. Combination Sum/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -104,17 +104,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="143. Reorder List" type="462c0819:PsiDirectoryNode" />
+              <item name="039. Combination Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="143. Reorder List" type="462c0819:PsiDirectoryNode" />
+              <item name="039. Combination Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="131. Palindrome Partitioning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="131. Palindrome Partitioning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,7 +140,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,12 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="110. Balanced Binary Tree" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="236. Lowest Common Ancestor of a Binary Tree" />
@@ -173,14 +177,19 @@
       <module name="127. Word Ladder" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="131. Palindrome Partitioning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="039. Combination Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="235. Lowest Common Ancestor of a Binary Search Tree" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Util" />
-      <module name="CommonUtil" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -225,19 +234,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Util" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Util" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +268,8 @@
       <workItem from="1544489539137" duration="4701000" />
       <workItem from="1544536500287" duration="6995000" />
       <workItem from="1544578879101" duration="983000" />
-      <workItem from="1544630361231" duration="5517000" />
+      <workItem from="1544630361231" duration="5882000" />
+      <workItem from="1544709184033" duration="5683000" />
     </task>
     <task id="LOCAL-00001" summary="tree">
       <created>1544115680840</created>
@@ -305,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38786000" />
+    <option name="totallyTimeSpent" value="44834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -325,14 +335,14 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.36641222" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33369684" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33369684" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -386,8 +396,20 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/131. Palindrome Partitioning/src/Solution.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/039. Combination Sum/src/Solution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="53" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -404,6 +426,21 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.length() - i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(s.length() - i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s.compareTo(&quot;null&quot;)</expression-string>
         <language-id>JAVA</language-id>
@@ -434,41 +471,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>Objects.isNull(null)</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>java.util.Objects</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.compareTo(null)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -676,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="1192" column="15" selection-start-line="1192" selection-start-column="15" selection-end-line="1192" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommonUtil/src/Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1450">
@@ -697,9 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -789,8 +784,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/143. Reorder List/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="35" selection-end-column="15" />
+        <state relative-caret-position="231">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="3947" column="26" selection-start-line="3947" selection-start-column="26" selection-end-line="3947" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1870" column="18" selection-start-line="1870" selection-start-column="18" selection-end-line="1870" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/131. Palindrome Partitioning/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/039. Combination Sum/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -849,7 +878,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>143. Reorder List</last-edited>
+          <last-edited>039. Combination Sum</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

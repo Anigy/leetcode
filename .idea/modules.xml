@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/039. Combination Sum/039. Combination Sum.iml" filepath="$PROJECT_DIR$/039. Combination Sum/039. Combination Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/094. Binary Tree Inorder Traversal/094. Binary Tree Inorder Traversal.iml" filepath="$PROJECT_DIR$/094. Binary Tree Inorder Traversal/094. Binary Tree Inorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/095. Unique Binary Search Trees II/095. Unique Binary Search Trees II.iml" filepath="$PROJECT_DIR$/095. Unique Binary Search Trees II/095. Unique Binary Search Trees II.iml" />
       <module fileurl="file://$PROJECT_DIR$/096. Unique Binary Search Trees/096. Unique Binary Search Trees.iml" filepath="$PROJECT_DIR$/096. Unique Binary Search Trees/096. Unique Binary Search Trees.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/124. Binary Tree Maximum Path Sum.iml" filepath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/124. Binary Tree Maximum Path Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/127. Word Ladder/127. Word Ladder.iml" filepath="$PROJECT_DIR$/127. Word Ladder/127. Word Ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/129. Sum Root to Leaf Numbers/129. Sum Root to Leaf Numbers.iml" filepath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers/129. Sum Root to Leaf Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/131. Palindrome Partitioning/131. Palindrome Partitioning.iml" filepath="$PROJECT_DIR$/131. Palindrome Partitioning/131. Palindrome Partitioning.iml" />
       <module fileurl="file://$PROJECT_DIR$/143. Reorder List/143. Reorder List.iml" filepath="$PROJECT_DIR$/143. Reorder List/143. Reorder List.iml" />
       <module fileurl="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" filepath="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" />
