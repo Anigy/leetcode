@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../out/production/022. Generate Parentheses" />
+    <output-test url="file://$MODULE_DIR$/../../out/test/022. Generate Parentheses" />
+    <content url="file://$MODULE_DIR$/../../022. Generate Parentheses">
+      <sourceFolder url="file://$MODULE_DIR$/../../022. Generate Parentheses/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
