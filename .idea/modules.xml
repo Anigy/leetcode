@@ -33,6 +33,8 @@
       <module fileurl="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/236. Lowest Common Ancestor of a Binary Tree.iml" filepath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/236. Lowest Common Ancestor of a Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" filepath="$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonUtil/CommonUtil.iml" filepath="$PROJECT_DIR$/CommonUtil/CommonUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySolution/MySolution.iml" filepath="$PROJECT_DIR$/MySolution/MySolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Solution Collection/Practice Solution Collection.iml" filepath="$PROJECT_DIR$/Practice Solution Collection/Practice Solution Collection.iml" />
     </modules>
   </component>
 </project>

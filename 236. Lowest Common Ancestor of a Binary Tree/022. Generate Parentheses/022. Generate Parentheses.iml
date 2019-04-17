@@ -6,6 +6,7 @@
     <content url="file://$MODULE_DIR$/../../022. Generate Parentheses">
       <sourceFolder url="file://$MODULE_DIR$/../../022. Generate Parentheses/src" isTestSource="false" />
     </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

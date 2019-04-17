@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831875d4-71e0-4735-bdbe-b206f3be3298" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySolution/src/FindPrimNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySolution/src/KthLargestPrimNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySolution/src/QuicklySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Solution Collection/Practice Solution Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Solution Collection/src/P112HasPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Solution Collection/src/P113PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Solution Collection/src/P199RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Solution Collection/src/P215FindKthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonUtil/src/FreeStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommonUtil/src/FreeStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/106. Construct Binary Tree from Inorder and Postorder Traversal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/106. Construct Binary Tree from Inorder and Postorder Traversal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/022. Generate Parentheses/022. Generate Parentheses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/022. Generate Parentheses/022. Generate Parentheses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,32 +27,37 @@
     <session id="-1634210998">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="9" />
+          <entry key="class" value="1" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="31" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="9" />
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="JAVA" value="31" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="935" />
+          <entry key="java" value="6886" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="935" />
+          <entry key="JAVA" value="6886" />
         </counts>
       </usages-collector>
     </session>
@@ -51,43 +65,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommonUtil/src/FreeStyle.java">
+        <entry file="file://$PROJECT_DIR$/CommonUtil/src/Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="76" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
+            <state relative-caret-position="433">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1617#1618#0" expanded="true" />
+                <element signature="e#1651#1652#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Practice Solution Collection/src/P113PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+            <state relative-caret-position="271">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2164#2179#0" expanded="true" />
+                <element signature="e#2660#2669#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommonUtil/src/Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/110. Balanced Binary Tree/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="25" column="27" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -145,6 +144,17 @@
         <option value="$PROJECT_DIR$/CommonUtil/src/test/CopyTree.java" />
         <option value="$PROJECT_DIR$/CommonUtil/src/FreeStyle.java" />
         <option value="$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java" />
+        <option value="$PROJECT_DIR$/MySolution/src/KthPrimeNum.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/P215FindKthLargest.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/QuicklySort.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/FindPrimNum.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/KthLargestPrimNum.java" />
+        <option value="$PROJECT_DIR$/MySolution/src/QuicklySort.java" />
+        <option value="$PROJECT_DIR$/MySolution/src/FindPrimNum.java" />
+        <option value="$PROJECT_DIR$/MySolution/src/KthLargestPrimNum.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/P199RightSideView.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/P112HasPathSum.java" />
+        <option value="$PROJECT_DIR$/Practice Solution Collection/src/P113PathSum.java" />
       </list>
     </option>
   </component>
@@ -154,9 +164,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="33" />
+    <option name="width" value="1334" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -167,16 +178,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="101. Symmetric Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="124. Binary Tree Maximum Path Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="101. Symmetric Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="124. Binary Tree Maximum Path Sum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -186,22 +199,29 @@
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CommonUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice Solution Collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice Solution Collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555056065921" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555500588048" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySolution" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -210,7 +230,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MySolution/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MySolution/src" />
       <recent name="E:\Intelij IDEA\leetcode\236. Lowest Common Ancestor of a Binary Tree" />
     </key>
   </component>
@@ -226,42 +250,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FreeStyle">
-    <configuration name="FreeStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FreeStyle" />
-      <module name="CommonUtil" />
+  <component name="RunManager" selected="Application.P113PathSum">
+    <configuration name="FindPrimNum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPrimNum" />
+      <module name="MySolution" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="017. Letter Combinations of a Phone Number" />
+    <configuration name="FindPrimNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPrimNum" />
+      <module name="Practice Solution Collection" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="312. Burst Balloons" />
+    <configuration name="KthLargestPrimNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthLargestPrimNum" />
+      <module name="MySolution" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="022. Generate Parentheses" />
+    <configuration name="P113PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P113PathSum" />
+      <module name="Practice Solution Collection" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Util" />
-      <module name="CommonUtil" />
+    <configuration name="P199RightSideView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P199RightSideView" />
+      <module name="Practice Solution Collection" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -288,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.FreeStyle" />
-      <item itemvalue="Application.Util" />
+      <item itemvalue="Application.FindPrimNum" />
+      <item itemvalue="Application.KthLargestPrimNum" />
+      <item itemvalue="Application.FindPrimNum (1)" />
+      <item itemvalue="Application.P199RightSideView" />
+      <item itemvalue="Application.P113PathSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FreeStyle" />
-        <item itemvalue="Application.Util" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.P113PathSum" />
+        <item itemvalue="Application.P199RightSideView" />
+        <item itemvalue="Application.KthLargestPrimNum" />
+        <item itemvalue="Application.FindPrimNum (1)" />
+        <item itemvalue="Application.FindPrimNum" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +356,10 @@
       <workItem from="1553047273538" duration="26000" />
       <workItem from="1553049941918" duration="7268000" />
       <workItem from="1555054390756" duration="1681000" />
-      <workItem from="1555301452083" duration="83000" />
+      <workItem from="1555301452083" duration="460000" />
+      <workItem from="1555302836994" duration="13792000" />
+      <workItem from="1555406912282" duration="5512000" />
+      <workItem from="1555484083281" duration="9442000" />
     </task>
     <task id="LOCAL-00001" summary="tree">
       <created>1544115680840</created>
@@ -378,7 +405,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64172000" />
+    <option name="totallyTimeSpent" value="93295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,10 +417,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="33" width="1334" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20420587" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23291367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,16 +429,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32864866" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4227027" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31079608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3304253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3264865" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3653217" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3635383" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32864866" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32715377" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,11 +515,14 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/CommonUtil/src/FreeStyle.java</url>
-          <line>57</line>
+          <line>3</line>
           <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -509,6 +539,16 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>result</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.sqrt(n)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>inorder.length == 0</expression-string>
         <language-id>JAVA</language-id>
@@ -549,105 +589,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>s</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/129. Sum Root to Leaf Numbers/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/111. Minimum Depth of Binary Tree/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/107. Binary tree level order traversal ii/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/101. Symmetric Tree/101. Symmetric Tree.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -775,13 +719,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CommonUtil/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/022. Generate Parentheses/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -811,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonUtil/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommonUtil/src/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -828,10 +758,27 @@
     <entry file="file://$PROJECT_DIR$/CommonUtil/CommonUtil.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonUtil/src/Util.java">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="261">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonUtil/src/FreeStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -842,22 +789,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonUtil/src/FreeStyle.java">
+    <entry file="file://$PROJECT_DIR$/Practice Solution Collection/src/P215FindKthLargest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="76" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
+        <state relative-caret-position="681">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySolution/src/KthPrimeNum.java" />
+    <entry file="file://$PROJECT_DIR$/MySolution/MySolution.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySolution/src/FindPrimNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySolution/src/QuicklySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySolution/src/KthLargestPrimNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonUtil/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Objects.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#1745#1746#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice Solution Collection/src/P112HasPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/101. Symmetric Tree/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/Practice Solution Collection/src/P199RightSideView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        <state relative-caret-position="252">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonUtil/src/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding>
+            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice Solution Collection/src/P113PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2164#2179#0" expanded="true" />
+            <element signature="e#2660#2669#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -871,7 +909,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31034482" />
               </list>
             </option>
           </splitter-proportions>
@@ -883,7 +921,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31034482" />
               </list>
             </option>
           </splitter-proportions>
@@ -894,7 +932,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31034482" />
               </list>
             </option>
           </splitter-proportions>
@@ -902,11 +940,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31034482" />
               </list>
             </option>
           </splitter-proportions>
@@ -914,12 +952,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>022. Generate Parentheses</last-edited>
+          <last-edited>Practice Solution Collection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.31034482" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -942,7 +979,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31034482" />
               </list>
             </option>
           </splitter-proportions>
