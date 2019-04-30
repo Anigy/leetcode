@@ -1,6 +1,9 @@
+import java.util.ArrayDeque;
+import java.util.Queue;
+
 public class Solution {
     public static int maxCoins(int[] nums) {
-        
+
         return 1;
     }
 
