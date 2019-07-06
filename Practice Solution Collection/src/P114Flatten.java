@@ -1,26 +1,31 @@
 public class P114Flatten {
-    public void flatten(TreeNode root) {
+    public static void flatten(TreeNode root) {
         flattenHelper(root);
     }
 
-    public TreeNode flattenHelper(TreeNode node) {
+    public static TreeNode flattenHelper(TreeNode node) {
         if (node == null) return null;
         if (node.left == null && node.right == null) return node;
-        TreeNode lNode = flattenHelper(node.left);
-        TreeNode rNode = flattenHelper(node.right);
+        TreeNode lnode = flattenHelper(node.left);
+        TreeNode rnode = flattenHelper(node.right);
         node.left = null;
-        if (lNode != null) node.right = lNode;
-        TreeNode tmp = node;
-        while (tmp.right != null) {
-            tmp.left = null;
-            tmp = tmp.right;
+        if (lnode != null) {
+            node.right = lnode;
+            if (rnode != null) {
+                TreeNode pointer = node;
+                while (pointer.right != null) {
+                    pointer = pointer.right;
+                }
+                pointer.right = rnode;
+            }
         }
-        tmp.right = rNode;
-        tmp.left = null;
         return node;
     }
 
-    public  static void main(String[] args) {
-        TreeNode tn = Util.createTree("2,#,3,#,4,#,5,#,6");
+    public static void main(String[] args) {
+        TreeNode tn = Util.createTree("null");
+        Util.printTree(tn);
+        flatten(tn);
+        Util.printTree(tn);
     }
 }
